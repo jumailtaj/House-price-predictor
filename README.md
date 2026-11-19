@@ -38,7 +38,3 @@ This helped me understand that choosing a dataset source is also an important pa
 🔹 **Key Learning:**
 
 This project helped me understand the basic Machine Learning workflow, from collecting and cleaning data to training, evaluating and making predictions using regression models.
-
-I'm looking forward to building more projects and improving my understanding of AI and Machine Learning.
-
-#MachineLearning #Python #DataScience #ArtificialIntelligence #GoogleColab #LinearRegression #RandomForest #Internship #StudentProject #LearningByDoing
